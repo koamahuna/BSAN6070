@@ -9,7 +9,7 @@ I begin to use visualizations to look for trends in the data and make some concl
 trends have changed over time.
 
 #Config Instructions
-This program was written in Google Colab and should run there easily. UIt was written on a Windows oeprating system.
+This program was written in Google Colab and should run there easily. UIt was written on a Windows operating system.
 
 #Installation Instructions
 The first block of code includes the packages necessary for this to run but i will list them here as well:
@@ -18,7 +18,10 @@ NumPy, Pandas, matplotlib, and SimpleImputer from sklearn.impute
 #Operating instructions
 The main thing to mention here is that you need to add an argument to the initial reading of the csv file. 
 pd.read_csv('data.csv', encoding='cp1252' should solve any issues.
+
 #A list of files included
+I have included a python notebookcompete with the code and analysis written by me. Additionally I have added the data file. 
+It is in a zip folder to save space so you will unzip it and upload it into your preferred environment to run it.
 
 #Copyright and licensing
 Default
@@ -31,7 +34,7 @@ mmahuna@lion.lmu.edu
 I had some warnings appear warning against saving a value against a copy of a slice but, it did not impact my ability to run the program.
 
 #Troubleshooting
-
+N/A
 
 #Credits and acknowledgements
 I utilized the follwoing resources during my project.
